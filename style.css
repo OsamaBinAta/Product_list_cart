@@ -288,6 +288,7 @@ body{
   margin-block: .5rem;
 }
 .checkout button{
+  flex-shrink: 0;
   cursor: pointer;
   height: 3.5rem;
   font-size: 1rem;
